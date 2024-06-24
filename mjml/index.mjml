@@ -30,7 +30,7 @@
       </mj-group>
     </mj-section>
     <mj-section background-color="#EDF2F7" padding-top="20px" padding-bottom="5px" padding-left="0px" padding-right="0px">
-      <mj-group width="570px"> 
+      <mj-group width="95%"> 
         <mj-column width="50%" padding="10px">
           <mj-image align="left" padding="0" border="none" width="256px" src="https://img.mailinblue.com/3403292/images/content_library/original/65eb2771d0c8d6691c4e4e7c.png" href="https://ecosup-assurance.fr" alt="Logo Ecosup Assurance"/>
         </mj-column>
@@ -40,7 +40,7 @@
       </mj-group>
     </mj-section>
     <mj-section background-color="#EDF2F7" padding="0">
-      <mj-column width="570px">
+      <mj-column width="95%">
         <mj-social align="right" padding-top="0" padding-bottom="0" padding-left="10px" padding-right="10px" icon-size="30px" mode="horizontal">
           <mj-social-element src="https://img.mailinblue.com/3403292/images/content_library/original/660d604fd0d41f3120a8cdf5.png" href="https://www.facebook.com/EcosupAssurance/" alt="icon Facebook"></mj-social-element>
           <mj-social-element src="https://img.mailinblue.com/3403292/images/content_library/original/660d605a373b24d832a3970d.png" href="https://www.instagram.com/ecosup.campus/" alt="icon Instagram"></mj-social-element>
@@ -50,28 +50,28 @@
       </mj-column>
     </mj-section>
     <mj-section background-color="#EDF2F7" padding="0">
-      <mj-column width="570px">
+      <mj-column width="95%">
         <mj-text padding="5px 10px" align="left" font-size="16px" font-weight="300" color="#2D3748"><span style="font-weight:700;text-transform:uppercase">News Ecosup Assurance</span> | Juin 2024  </mj-text>
       </mj-column>
     </mj-section>
     <mj-section background-color="#270938" padding-top="20px" padding-bottom="20px">
-      <mj-column width="530px">
-        <mj-text align="center" padding-top="0" padding-bottom="0" font-size="28px" font-weight="500" line-height="32px" color="#BA4995"><strong style="color:#ffffff;">Vous recherchez un(e) alternant(e) !</strong> Nous disposons de nombreux profils dynamiques, intéressants et admis en BTS ou Bachelor. Demandez et consultez notre <span style="font-weight:700;color:#ffffff;">CV Book</span> actualisé.</mj-text>
-        <mj-button padding="25px 0 15px 0" align="center" font-size="16px" background-color="#BA4995" color="#ffffff" css-class="hover" href="https://forms.gle/sS8dzxGh6mN2J4yZ7" target="_blank">Contactez-nous</mj-button>
+      <mj-column width="88%">
+        <mj-text align="center" padding-top="0" padding-bottom="0" font-size="28px" font-weight="500" line-height="32px" color="#BA4995"><strong style="color:#ffffff;">Vous recherchez un(e) alternant(e) !</strong> Nous disposons de nombreux profils dynamiques, intéressants et admis en BTS ou Bachelor. Téléchargez et consultez notre <span style="font-weight:700;color:#ffffff;">CV Book</span> actualisé.</mj-text>
+        <mj-button padding="25px 0 15px 0" align="center" font-size="16px" background-color="#BA4995" color="#ffffff" css-class="hover" href="https://ecosup-assurance.fr/cv-book" target="_blank">Code : <span style="font-weight:700;">CVBOOK062024</span></mj-button>
       </mj-column>
     </mj-section>
     <mj-section background-color="#EDF2F7" padding="0px">
       <mj-column width="100%">
-        <mj-image padding="0" border="none" fluid-on-mobile="true" width="600px" target="_blank" src="https://i.ibb.co/KV2Bztr/image052024.jpg" href="https://ecosup-assurance.fr/risques-majeurs-assurance/" alt="Nouveau risques informatique,climatique et économique"/>
+        <mj-image padding="0" border="none" fluid-on-mobile="true" width="600px" target="_blank" src="https://i.ibb.co/mz8NctF/let4-E-062024.jpg" href="https://ecosup-assurance.fr/formation-exigence-pedagogie-exception/" alt="Remise des diplômes à Ecosup Campus - lancer de chapeaux"/>
       </mj-column>
     </mj-section>
     <mj-section background-color="#EDF2F7" padding-top="10px" padding-bottom="20px">
-      <mj-column width="530px"> 
+      <mj-column width="88%"> 
         <mj-text padding-top="5px" padding-bottom="5px" font-size="14px" font-weight="900" line-height="18px" text-transform="uppercase" color="#944694">Dossier</mj-text>
-        <mj-text padding-top="0" padding-bottom="0" font-size="28px" font-weight="500" line-height="30px" color="#684092">Cyberattaques, Dérèglement climatique et Environnement économique : <span style="font-weight:700;">les risques majeurs pour l'assurance</span></mj-text>
-        <mj-text padding-top="5px" padding-bottom="0" font-size="16px" font-weight="500" line-height="20px">Le monde de l'assurance est confronté à des <span style="font-weight:700;">défis croissants</span> dus à l'<span style="font-weight:700">évolution des risques</span>. Parmi les plus importants, on trouve les <span style="font-weight:700">cyberattaques</span>, le <span style="font-weight:700">dérèglement climatique</span> et l'<span style="font-weight:700">environnement économique</span>.</mj-text>
-        <mj-text padding-top="0" padding-bottom="0" font-size="16px" font-weight="500" line-height="20px">En constante augmentation, ces risques <span style="font-weight:700">menacent la stabilité du secteur</span> et exigent des compagnies d'assurance une adaptation rapide et efficace.</mj-text>
-        <mj-text align="right" font-size="16px" line-height="20px" font-weight="700"><a href="https://ecosup-assurance.fr/risques-majeurs-assurance/" style="color:#BA4995;text-decoration:none;" target="_blank">Lire la suite...</a></mj-text>
+        <mj-text padding-top="0" padding-bottom="0" font-size="28px" font-weight="500" line-height="30px" color="#684092"><span style="font-weight:700;">Zoom EcoSup Assurance :</span> une Formation d'exigence - une pédagogie d'exception !</mj-text>
+        <mj-text padding-top="5px" padding-bottom="0" font-size="16px" font-weight="500" line-height="20px">C'est à <span style="font-weight:700;">Tourcoing</span> que l'école naît à l'initiative de <span style="font-weight:700;">Pierre Bouvier</span> en 1992 avec la volonté de faire de l'<span style="font-weight:700;">apprentissage</span> et de la <span style="font-weight:700;">professionnalisation</span> une spécialité, une identité !</mj-text>
+        <mj-text padding-top="5px" padding-bottom="0" font-size="16px" font-weight="500" line-height="20px">Depuis, Ecosup prépare, avec des <span style="font-weight:700;">formations supérieures</span>, reconnues et <span style="font-weight:700;">accessibles en apprentissage</span>, les étudiants à se transformer en <span style="font-weight:700;">professionnels</span> aux compétences recherchées et appréciées par les employeurs.</mj-text>
+        <mj-text align="right" font-size="16px" line-height="20px" font-weight="700"><a href="https://ecosup-assurance.fr/formation-exigence-pedagogie-exception/" style="color:#BA4995;text-decoration:none;" target="_blank">Lire la suite...</a></mj-text>
       </mj-column>
     </mj-section>
     <mj-section background-color="#ffffff" padding-left="17px" padding-right="17px">
@@ -87,17 +87,17 @@
     </mj-section>
     <mj-section background-color="#EDF2F7" padding-left="17px" padding-right="17px">
       <mj-column width="50%" padding="8px">
-        <mj-image width="600px" padding="0" border="none" fluid-on-mobile="true" src="https://i.ibb.co/mqtJHvr/let-E02-052024.jpg" alt="FACE MEL à la plaine de l'image - Tourcoing"/>
+        <mj-image width="480px" padding="0" border="none" fluid-on-mobile="true" src="https://i.ibb.co/R4ghFH4/let3-E-062024.jpg" alt="Invitation à la Reunion BNI sur l'apprentissage"/>
       </mj-column>
       <mj-column width="50%" padding="8px">
         <mj-text padding="0" align="left" font-size="14px" font-weight="900" color="#944694" line-height="18px" text-transform="uppercase">événement</mj-text>
-        <mj-text padding="0" align="left" font-size="20px" font-weight="700" line-height="24px" color="#684092">Ecosup, acteur actif du BNI</mj-text>
-        <mj-text padding="0" font-size="16px" line-height="20px" font-weight="300">Membre permanent du <span style="font-weight:700;">BNI Culture Business</span> d'Halluin, <span style="font-weight:700;">Ecosup Assurance</span> a pu expliquer ce 20 juin aux chefs d'entreprise présents en nombre l'importance de l'<span style="font-weight:700;">apprentissage</span> dans le <span style="font-weight:700;">recrutement</span>. Une superbe réunion riche d'échange !</mj-text>
+        <mj-text padding="0" align="left" font-size="20px" font-weight="700" line-height="24px" color="#684092">Ecosup, acteur engagé du BNI</mj-text>
+        <mj-text padding="0" font-size="16px" line-height="20px" font-weight="300">Membre permanent du <span style="font-weight:700;">BNI Culture Business</span> d'Halluin, <span style="font-weight:700;">Christian Annaloro d'Ecosup Assurance</span> a pu expliquer ce 20 juin aux chefs d'entreprise présents en nombre l'importance de l'<span style="font-weight:700;">apprentissage</span> dans le <span style="font-weight:700;">recrutement</span>. Une réunion riche en échanges !</mj-text>
       </mj-column>
     </mj-section>
     <mj-section background-color="#ffffff" padding-left="17px" padding-right="17px">
       <mj-column width="50%" padding="8px">
-        <mj-image padding="0" border="none" fluid-on-mobile="true" target="_blank" src="https://i.ibb.co/vxJtb0X/let3-042024.jpg" alt="Forum Start'Avenir à Lillenium :e mercredi 29 mai"/>
+        <mj-image padding="0" border="none" fluid-on-mobile="true" target="_blank" src="https://i.ibb.co/gSqpv5V/let2-E-062024.jpg" alt="Forum Start'Avenir à Lillenium ce mercredi 29 mai"/>
       </mj-column>
       <mj-column width="50%" padding="8px">
         <mj-text padding="0" align="left" font-size="14px" font-weight="900" color="#944694" line-height="18px" text-transform="uppercase">Événement</mj-text>
@@ -105,16 +105,30 @@
         <mj-text padding="0" font-size="16px" line-height="20px" font-weight="300"><span style="font-weight:700;">Plus de 350 participants</span> ont franchi les portes de <span style="font-weight:700;">Lillenium</span> ce 29 mai pour le <span style="font-weight:700;">forum Start'Avenir</span>. Ce fut un plaisir pour <span style="font-weight:700;">EcoSup Assurance</span> et son partenaire <span style="font-weight:700;">Kelly Services</span> de Lille d'accompagner et de coacher les jeunes !</mj-text>
       </mj-column>
     </mj-section>
-    <mj-section background-color="#ffffff" padding="20px 32px">
+    <mj-section background-color="#EDF2F7" padding-left="17px" padding-right="17px">
+      <mj-column width="50%" padding="8px">
+        <mj-image width="480px" padding="0" border="none" fluid-on-mobile="true" src="https://i.ibb.co/G9KRswr/let1-E-062024.jpg" alt="Versement de la Taxe d'Apprentissage"/>
+      </mj-column>
+      <mj-column width="50%" padding="8px">
+        <mj-text padding="0" align="left" font-size="14px" font-weight="900" color="#944694" line-height="18px" text-transform="uppercase">taxe d'apprentissage 2024</mj-text>
+        <mj-text padding="0" align="left" font-size="20px" font-weight="700" line-height="24px" color="#684092">Donnez du sens à votre taxe d'apprentissage</mj-text>
+        <mj-text padding="0" font-size="16px" line-height="20px" font-weight="300">Contribution obligatoire, la <span style="font-weight:700;">taxe d'apprentissage</span> offre la liberté... celle de choisir l'organisme de formation que votre entreprise souhaite soutenir. <span style="font-weight:700;">Vous avez la main!</span></mj-text>
+        <mj-text padding="0" font-size="16px" line-height="20px" font-weight="300">Alors, donnez du sens à votre contribution, optez pour <span style="font-weight:700;text-transform:uppercase;color:#93278F;">Ecosup Assurance</span> - code UAI <span style="font-weight:700;color:#93278F;">0595877T</span>.</mj-text>
+      </mj-column>
+      <mj-column width="100%">
+        <mj-button padding="25px 0 15px 0" align="center" font-size="16px" background-color="#BA4995" color="#ffffff" css-class="hover" href="https://employeurs.soltea.education.gouv.fr/idp/ta5/oauth/authorize?provider=netentreprise&amp;target=employeur&amp;response_type=code&amp;client_id=819066ca-4142-4050-bc4e-94442482ef27&amp;state=SnJYenpYbEV6bU8yQUF2YmtTNUxEVUlGOFZBX3RSaldPc2NEcU1seURiSmJj&amp;redirect_uri=https:%2F%2Femployeurs.soltea.education.gouv.fr%2Fespace-prive%2F&amp;scope=openid%20profile%20TA5_READ%20TA5_WRITE&amp;code_challenge=coOv530E3CTK6ajNlby303D839rM0nJcsBZmj_PKOi0&amp;code_challenge_method=S256&amp;nonce=SnJYenpYbEV6bU8yQUF2YmtTNUxEVUlGOFZBX3RSaldPc2NEcU1seURiSmJj" target="_blank">Versement Taxe Apprentissage  </mj-button>
+      </mj-column>
+    </mj-section>
+    <mj-section background-color="#270938" padding="20px 32px">
       <mj-column width="320px">
-        <mj-image width="140px" padding="0" border="none" align="center" target="_blank" src="https://img.mailinblue.com/3403292/images/content_library/original/65eb27b4d0c8d6691c4e4e95.png" href="https://ecosup-campus.com" alt="Logo Ecosup Campus"/>
-        <mj-text padding="0" align="center" font-size="12px" font-weight="300" line-height="16px" color="#2D3748">17 rue Charles et Albert Roussel</mj-text>
-        <mj-text padding="0" align="center" font-size="12px" font-weight="300" line-height="16px" color="#2D3748" text-transform="uppercase">59200 Tourcoing</mj-text>
-        <mj-text padding="0" align="center" font-size="12px" font-weight="700" line-height="16px" color="#2D3748"><a style="text-decoration:none;color:#2D3748;" href="tel:0320700606">Tél 03.20.70.06.06</a>               </mj-text>
-        <mj-text padding="0 0 25px 0" align="center" font-size="12px" font-weight="300" line-height="16px" color="#2D3748"><a style="text-decoration:none;color:#2D3748;" href="mailto:contact@ecosup-campus.fr">contact@ecosup-campus.fr</a></mj-text>
-        <mj-text padding="0" align="center" font-size="12px" font-weight="300" line-height="16px" color="#2D3748">Si vous n'arrivez pas à lire cet email, cliquez <a style="color:#BA4995;text-decoration:none;font-weight:700" href="{{ mirror}}">ici</a>           </mj-text>
-        <mj-text padding="0" align="center" font-size="12px" font-weight="300" line-height="16px" color="#2D3748">Pour être sûr(e) de recevoir nos communications, ajoutez <a style="text-decoration:none;color:#2D3748;" href="mailto:contact@ecosup-campus.fr">contact@ecosup-campus.fr</a> dans votre carnet d'adresses.</mj-text>
-        <mj-text padding="0" align="center" font-size="12px" font-weight="300" line-height="16px" color="#2D3748">Pour vous désinscrire, cliquez <a style="color:#BA4995;text-decoration:none;font-weight:700;" href="{{ unsubscribe }}">ici</a></mj-text>
+        <mj-image width="140px" padding="0" border="none" align="center" target="_blank" src="https://i.ibb.co/8K8y4kW/ECOSUP-CAMPUS-Blanc012024.png" href="https://ecosup-campus.com" alt="Logo Ecosup Campus"/>
+        <mj-text padding="0" align="center" font-size="12px" font-weight="300" line-height="16px" color="#fcfcfc">17 rue Charles et Albert Roussel</mj-text>
+        <mj-text padding="0" align="center" font-size="12px" font-weight="300" line-height="16px" color="#fcfcfc" text-transform="uppercase">59200 Tourcoing</mj-text>
+        <mj-text padding="0" align="center" font-size="12px" font-weight="700" line-height="16px" color="#fcfcfc"><a style="text-decoration:none;color:#fcfcfc;" href="tel:0320700606">Tél 03.20.70.06.06</a>               </mj-text>
+        <mj-text padding="0 0 25px 0" align="center" font-size="12px" font-weight="300" line-height="16px" color="#fcfcfc"><a style="text-decoration:none;color:#fcfcfc;" href="mailto:contact@ecosup-campus.fr">contact@ecosup-campus.fr</a></mj-text>
+        <mj-text padding="0" align="center" font-size="12px" font-weight="300" line-height="16px" color="#fcfcfc">Si vous n'arrivez pas à lire cet email, cliquez <a style="color:#BA4995;text-transform:uppercase;text-decoration:none;font-weight:700" href="{{ mirror}}">ici</a>           </mj-text>
+        <mj-text padding="0" align="center" font-size="12px" font-weight="300" line-height="16px" color="#fcfcfc">Pour être sûr(e) de recevoir nos communications, ajoutez <a style="text-decoration:none;color:#fcfcfc;" href="mailto:contact@ecosup-campus.fr">contact@ecosup-campus.fr</a> dans votre carnet d'adresses.</mj-text>
+        <mj-text padding="0" align="center" font-size="12px" font-weight="300" line-height="16px" color="#fcfcfc">Pour vous désinscrire, cliquez <a style="color:#BA4995;text-transform:uppercase;text-decoration:none;font-weight:700;" href="{{ unsubscribe }}">ici</a></mj-text>
       </mj-column>
     </mj-section>
   </mj-body>
